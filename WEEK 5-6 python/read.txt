@@ -1,0 +1,6 @@
+name,id,course,level,section
+Prayus,102,Science,200,2B
+Diksha,90,AI,3,1APrayus,56,computing,l3,i
+Supriya,P2,AI,3,1A
+Aarush,103,History,300,3C
+

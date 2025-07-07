@@ -1,0 +1,25 @@
+
+
+Timestamp: 2025-07-07 22:17:54
+Numbers: [1.0, 1.0, 1.0, 1.0, 2.0, 23.0, 2.0]
+Addition: 31.0
+Subtraction: -29.0
+Multiplication: 92.0
+Division: 0.010869565217391304
+----------------------------------------
+
+Timestamp: 2025-07-07 22:18:05
+Numbers: [1.0]
+Addition: 1.0
+Subtraction: 1.0
+Multiplication: 1.0
+Division: 1.0
+----------------------------------------
+
+Timestamp: 2025-07-07 22:18:18
+Numbers: [12.0, 12.0]
+Addition: 24.0
+Subtraction: 0.0
+Multiplication: 144.0
+Division: 1.0
+----------------------------------------
